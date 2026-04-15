@@ -71,4 +71,6 @@ Jika Anda ingin menjalankan project ini di lokal, ikuti langkah berikut:
 
 ---
 
-Dibuat dengan ❤️ oleh [Nama Anda] - [NIM/ID Anda]
+
+Dibuat dengan ❤️ oleh [Bintang Putra Sugiatno]
+>>>>>>> 4b8dcdd (Menghapus file README)
