@@ -21,14 +21,11 @@ Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete) lengkap:
 Berikut adalah tampilan aplikasi setelah berhasil diperbaiki dan dikustomisasi:
 
 ### 1. Halaman Utama (Daftar Karyawan)
-![Halaman Utama]([LINK_GAMBAR_ISSUE_ANDA])
-*Tampilan daftar karyawan dengan fitur pencarian dan pagination.*
+<img width="905" height="667" alt="image" src="https://github.com/user-attachments/assets/d5f07f85-7885-4d7d-9109-8cc53dc9edb5" />
+
 
 ### 2. Form Tambah Karyawan
-![Form Tambah]([LINK_GAMBAR_ISSUE_ANDA])
-*Form input data karyawan baru dengan dropdown jabatan yang sudah diperbaiki.*
-
----
+<img width="905" height="667" alt="image" src="https://github.com/user-attachments/assets/d310e013-a513-40ce-85d0-180c8d763c95" />
 
 ## 🛠️ Stack Teknologi
 
@@ -36,8 +33,6 @@ Berikut adalah tampilan aplikasi setelah berhasil diperbaiki dan dikustomisasi:
 -   **Database:** [Sebutkan, misal MySQL / PostgreSQL]
 -   **Frontend:** Tailwind CSS (via CDN)
 -   **OS:** Ubuntu [Versi, misal 22.04 LTS]
-
----
 
 ## 🚀 Cara Menjalankan Project
 
@@ -68,9 +63,3 @@ Jika Anda ingin menjalankan project ini di lokal, ikuti langkah berikut:
     php artisan serve
     ```
     Akses aplikasi di `http://127.0.0.1:8000`.
-
----
-
-
-Dibuat dengan ❤️ oleh [Bintang Putra Sugiatno]
->>>>>>> 4b8dcdd (Menghapus file README)
